@@ -6,7 +6,7 @@ This project is a mini video game coded in Python where the objective is to surv
 
 This game was created by following this [video series](https://www.youtube.com/watch?v=8J8wWxbAdFg&list=PLMS9Cy4Enq5KsM7GJ4LHnlBQKTQBV8kaR).
 
-## ⚙️ Skills
+## 🛠️ Skills
 
 - Python
 
